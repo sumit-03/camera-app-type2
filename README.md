@@ -1,2 +1,2 @@
 # MyCamera
-App build for using the default camera application.
+App used the default camera application installed in phone.
